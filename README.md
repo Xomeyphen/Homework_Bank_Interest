@@ -19,3 +19,5 @@ The bank also charges an extra $15 if the balance of the account falls below $40
 Input Validation: Do not accept a negative value for the number of checks written. If a negative value is given for the beginning balance, display an urgent message indicating the account is overdrawn.
 
 Add comments and version control.
+
+(Yes i know the math is messed up idk what i did.)
